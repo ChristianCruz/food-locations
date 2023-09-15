@@ -15,13 +15,21 @@ const CategoryListData = [
     id: 3,
     name: "Italian",
     value: "Italian restaurant",
+<<<<<<< HEAD
     icon: "/pizza.png",
+=======
+    icon: "/ramen.png",
+>>>>>>> 3933a2ccd0a4cd33efa9fbe4f769d14674158c07
   },
   {
     id: 4,
     name: "Chinese",
     value: "Chinese restaurant",
+<<<<<<< HEAD
     icon: "/ramen.png",
+=======
+    icon: "/pizza.png",
+>>>>>>> 3933a2ccd0a4cd33efa9fbe4f769d14674158c07
   },
   {
     id: 4,

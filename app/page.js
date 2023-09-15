@@ -29,9 +29,8 @@ export default function Home() {
         <hr />
         <br />
         <SelectRating />
+        {/* <button>Sign Out</button> */}
       </div>
-      <div className="bg-blue-500 col-span-3">Second </div>
-      {/* <button onClick={() => signOut()}>Sign Out</button> */}
     </div>
   );
 }
