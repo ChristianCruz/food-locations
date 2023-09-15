@@ -1,6 +1,6 @@
 ## Location-based restaurant finder
 
-Application made possible with NextJS / ReactJS /Tailwind / GoogleMap / NextAuth:
+Application made possible with NextJS / ReactJS / Tailwind / GoogleMap / NextAuth:
 
 ```bash
 npm run dev

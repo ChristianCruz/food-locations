@@ -15,9 +15,10 @@ export default function Home() {
     }
   }, [session]);
   return (
-    <div>
-      <h2>Hello World!</h2>
-      <button onClick={() => signOut()}>Sign Out</button>
+    <div className="grid grid-cols-4 h-screen">
+      <div className="bg-red-500">First</div>
+      <div className="bg-blue-500 col-span-3">Second </div>
+      {/* <button onClick={() => signOut()}>Sign Out</button> */}
     </div>
   );
 }
