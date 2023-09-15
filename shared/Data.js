@@ -15,13 +15,13 @@ const CategoryListData = [
     id: 3,
     name: "Italian",
     value: "Italian restaurant",
-    icon: "/ramen.png",
+    icon: "/pizza.png",
   },
   {
     id: 4,
     name: "Chinese",
     value: "Chinese restaurant",
-    icon: "/pizza.png",
+    icon: "/ramen.png",
   },
   {
     id: 4,
